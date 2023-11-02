@@ -1,0 +1,25 @@
+* {
+  background-color: aliceblue;
+}
+div,
+a {
+  background-color: antiquewhite;
+  height: 500px;
+  width: auto;
+}
+
+a {
+  font-size: 40px;
+}
+
+.monospace {
+  font-family: "Courier New", monospace;
+}
+
+.cursive {
+  font-family: "Brush Script MT", cursive;
+}
+
+.serif {
+  font-family: "Georgia", serif;
+}

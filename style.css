@@ -1,25 +1,23 @@
 * {
-  background-color: aliceblue;
+  background-color: #E0F4FF;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
 }
+
+
 div,
 a {
-  background-color: antiquewhite;
-  height: 500px;
   width: auto;
+  display: inline-block;
 }
 
 a {
-  font-size: 40px;
+  display: block;
+  margin: 8px;
+  text-decoration: none;
 }
 
-.monospace {
-  font-family: "Courier New", monospace;
-}
-
-.cursive {
-  font-family: "Brush Script MT", cursive;
-}
-
-.serif {
-  font-family: "Georgia", serif;
+img {
+  width: 250px;
+  height: auto;
 }
